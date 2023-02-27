@@ -4,6 +4,8 @@ This directory contains a simple script used to calculte the translational and r
 The script used to calculate rotational and translation diffusion works on a data file produced by another program writtent to extract diffusion information from simulations.
 
 The plotting script shows some of the results of these calculation. For example, the intial abd final diffusion ratios (simulation / experiment) can be plotted for the proteins:
-
-
+![alt text](https://github.com/[zwehrspan]/[EXAMPLE_SCRIPTS_PROT]/DATA/trans_ratio_plot.bmp?raw=true)
+![alt text](https://github.com/[zwehrspan]/[EXAMPLE_SCRIPTS_PROT]/DATA/rot_plot.bmp?raw=true)
 We can also explore the distributions of those ratios:
+![alt text](https://github.com/[zwehrspan]/[EXAMPLE_SCRIPTS_PROT]/DATA/trans_ratios_hist.bmp?raw=true)
+![alt text](https://github.com/[zwehrspan]/[EXAMPLE_SCRIPTS_PROT]/DATA/rot_hist.bmp?raw=true)
